@@ -37,5 +37,10 @@ public class HelloWorld {
 
 
     }
-
+    public  void    testT(){
+        System.out.println("testT");
+    }
+    public  void   test(){
+        System.out.println("test2");
+    }
 }

@@ -5,9 +5,9 @@ package com.zzk;
  */
 public class User {
 
-    private   String   name;
+    private String name;
 
-    private   int    age;
+    private int age;
 
     public String getName() {
         return name;
@@ -23,5 +23,19 @@ public class User {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    private int sex;
+
+    public int getSex() {
+        return sex;
+    }
+
+    public void setSex(int sex) {
+        this.sex = sex;
+    }
+
+    public static void main(String[] args) {
+        System.out.println("hahaha");
     }
 }
