@@ -32,8 +32,8 @@ public class HelloWorld {
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
-            System.out.println("测试111");
-            System.out.println("测试666");
+            System.out.println("测试3333");
+            System.out.println("测试5555");
         }
 
 
@@ -54,6 +54,9 @@ public class HelloWorld {
         System.out.println("test7");
     }
     public  void    test8(){
+        System.out.println("test8");
+    }
+    public  void    test3(){
         System.out.println("test8");
     }
 }
