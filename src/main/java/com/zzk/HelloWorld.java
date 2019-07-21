@@ -42,6 +42,6 @@ public class HelloWorld {
         System.out.println("testT");
     }
     public  void   test(){
-        System.out.println("test");
+        System.out.println("test2");
     }
 }
