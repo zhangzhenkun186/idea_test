@@ -5,9 +5,11 @@ package com.zzk;
  */
 public class User {
 
-    private String name;
+	private String name;
 
-    private int age;
+    private int   age;
+
+    private int   sex;
 
     public String getName() {
         return name;
@@ -21,21 +23,19 @@ public class User {
         return age;
     }
 
-    public void setAge(int age) {
-        this.age = age;
-    }
+	public void setAge(int age) {
+		this.age = age;
+	}
 
-    private int sex;
+	public int getSex() {
+		return sex;
+	}
 
-    public int getSex() {
-        return sex;
-    }
-
-    public void setSex(int sex) {
-        this.sex = sex;
-    }
+	public void setSex(int sex) {
+		this.sex = sex;
+	}
 
     public static void main(String[] args) {
-        System.out.println("hahaha");
-    }
+		System.out.println("测试冲突hahaha");
+	}
 }

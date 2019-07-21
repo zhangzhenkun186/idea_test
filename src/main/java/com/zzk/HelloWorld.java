@@ -33,6 +33,7 @@ public class HelloWorld {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
             System.out.println("测试");
+            System.out.println("测试111111");
         }
 
 
@@ -41,6 +42,6 @@ public class HelloWorld {
         System.out.println("testT");
     }
     public  void   test(){
-        System.out.println("test2");
+        System.out.println("test");
     }
 }
