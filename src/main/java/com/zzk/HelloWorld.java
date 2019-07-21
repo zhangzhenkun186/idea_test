@@ -41,7 +41,7 @@ public class HelloWorld {
     public  void    testT(){
         System.out.println("testT");
     }
-    public  void   test(){
-        System.out.println("test2");
+    public  void    test6(){
+        System.out.println("test6");
     }
 }
