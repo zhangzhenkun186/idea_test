@@ -8,8 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c0b16e5f-67ff-4982-9759-ae891d27a415" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zzk/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zzk/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/zzk/test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zzk/test.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zzk/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zzk/HelloWorld.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -47,20 +47,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzk/HelloWorld.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+              <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zzk/test.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -91,8 +91,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/zzk/User.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zzk/test.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/zzk/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zzk/test.properties" />
       </list>
     </option>
   </component>
@@ -479,11 +479,18 @@
       <option name="project" value="LOCAL" />
       <updated>1563725526295</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第二次提交代码到本地仓库">
+      <created>1563729084800</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563729084800</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19218000" />
+    <option name="totallyTimeSpent" value="19668000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -548,7 +555,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交代码到本地仓库" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交代码到本地仓库" />
+    <MESSAGE value="第二次提交代码到本地仓库" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次提交代码到本地仓库" />
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="breakpointCondition">
@@ -607,15 +615,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzk/test.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zzk/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="34" column="34" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
         </state>
       </provider>
     </entry>
