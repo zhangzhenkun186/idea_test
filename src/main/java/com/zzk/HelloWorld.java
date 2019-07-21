@@ -29,11 +29,11 @@ package com.zzk;
  */
 
 public class HelloWorld {
-    public static void main(String[] args) {
+	public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
             System.out.println("测试");
-            System.out.println("测试4444");
+            System.out.println("测试55555");
         }
 
 
@@ -49,5 +49,8 @@ public class HelloWorld {
     }
     public  void    testT(){
         System.out.println("testT");
+    }
+    public  void    test7(){
+        System.out.println("test7");
     }
 }
