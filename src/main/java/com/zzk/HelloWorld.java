@@ -50,6 +50,9 @@ public class HelloWorld {
     public  void    testT(){
         System.out.println("testT");
     }
+    public  void    test7(){
+        System.out.println("test7");
+    }
     public  void    test8(){
         System.out.println("test8");
     }
