@@ -59,4 +59,7 @@ public class HelloWorld {
     public  void    test3(){
         System.out.println("test8");
     }
+    public  void    test9(){
+        System.out.println("test8");
+    }
 }
