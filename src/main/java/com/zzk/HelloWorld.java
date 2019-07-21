@@ -38,10 +38,16 @@ public class HelloWorld {
 
 
     }
+    public  void    test6() {
+        System.out.println("test6");
+    }
+    public  void    test(){
+        System.out.println("test");
+    }
+    public  void    test4(){
+        System.out.println("test4");
+    }
     public  void    testT(){
         System.out.println("testT");
-    }
-    public  void    test6(){
-        System.out.println("test6");
     }
 }
