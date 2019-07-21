@@ -33,13 +33,15 @@ public class HelloWorld {
         for (int i = 0; i < 10; i++) {
             System.out.println(i);
             System.out.println("测试");
-            System.out.println("测试22222");
+            System.out.println("测试4444");
         }
 
 
     }
-    public  void    test(){
-    	System.out.println("test");
+    public  void    testT(){
+        System.out.println("testT");
     }
-    
+    public  void   test(){
+        System.out.println("test2");
+    }
 }
